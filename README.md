@@ -1,6 +1,17 @@
-<h1>GravityShade: Gallery, Changelog, and More</h1>
-<p>Links |
-  <a href="https://github.com/OttCS/GS-More/blob/main/Gallery.md">Gallery</a> | 
-  <a href="https://github.com/OttCS/GS-More/blob/main/Changelog.md">Changelog</a>
-</p>
-<p> Thanks for checking out the supporting GravityShade stuff! Github Desktop just provides a really easy way for me to update the gallery/changelog/whatever, even though HTML is super easy, I only get so much free bandwidth for my website and I want to avoid possible issues as much as possible. Anyway, thanks!</p>
+<h1>GravityShade Gallery</h1>
+
+<h2>22.1.7</h2>
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/22.1.7/terralith_autumn.webp">
+
+<h2>21.12.20</h2>
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.20/azaelea.webp">
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.20/outpost.webp">
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.20/portal.webp">
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.20/temple.webp">
+
+<h2>21.12.16</h2>
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.16/caves-21.12.16.webp">
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.16/nether-21.12.16.webp">
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.16/peaks-21.12.16.webp">
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.16/portal-21.12.16.webp">
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/21.12.16/village-21.12.16.webp">
