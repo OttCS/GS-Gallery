@@ -1,6 +1,7 @@
 <h1>GravityShade Gallery</h1>
 
 <h2>DEV Edition</h2>
+<img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/dev/ruins.webp">
 <img src="https://raw.githubusercontent.com/OttCS/GravityShadeGallery/main/dev/reflections.webp">
 
 <h2>22.1.16</h2>
